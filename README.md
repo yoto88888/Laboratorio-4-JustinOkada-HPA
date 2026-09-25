@@ -23,6 +23,10 @@ La aplicación se conecta a una base de datos MySQL y destaca por su enfoque en 
 - **Base de Datos:** MySQL
 - **Librería de Datos:** `MySql.Data` (MySQL Connector/NET)
 
+
+  <img width="796" height="752" alt="image" src="https://github.com/user-attachments/assets/af1caf28-d20d-4582-b64a-7cd458394e0c" />
+
+
 ## 📂 Arquitectura del Proyecto
 
 El código está estructurado para separar las responsabilidades:
